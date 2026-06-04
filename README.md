@@ -21,7 +21,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-Hi! I'm **Anusha R**, a passionate Software Engineering student pursuing my **Integrated M.Tech at Vellore Institute of Technology** (CGPA: 8.52) 🎓
+Hi! I'm **Anusha R**, a passionate Software Engineering student pursuing my **Integrated M.Tech at Vellore Institute of Technology** (CGPA: 8.58) 🎓
 
 I love building things that solve real problems — from **IoT-based safety systems** to **deep learning models** for visual understanding. I recently published a **patent** for an IoT driver safety system, and I'm always exploring the intersection of AI, hardware, and the web.
 
@@ -176,7 +176,7 @@ I love building things that solve real problems — from **IoT-based safety syst
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| Integrated M.Tech in Software Engineering (Pursuing) | Vellore Institute of Technology, Vellore | 2023 – 2028 | CGPA: **8.52** |
+| Integrated M.Tech in Software Engineering (Pursuing) | Vellore Institute of Technology, Vellore | 2023 – 2028 | CGPA: **8.58** |
 | Class XII – Higher Secondary | Om Sakthi Narayani Matriculation Hr. Sec. School | 2023 | CGPA: **8.56** |
 | Class X – SSLC | Om Sakthi Narayani Matriculation Hr. Sec. School | 2021 | **All Pass** |
 
