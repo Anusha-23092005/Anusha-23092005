@@ -153,17 +153,6 @@ I love building things that solve real problems — from **IoT-based safety syst
 
 </div>
 
-### 📂 More Repositories
-
-<div align="center">
-
-[![delivery-tracking-system](https://github-readme-stats.vercel.app/api/pin/?username=Anusha-23092005&repo=delivery-tracking-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9)](https://github.com/Anusha-23092005/delivery-tracking-system)
-[![food-order-system](https://github-readme-stats.vercel.app/api/pin/?username=Anusha-23092005&repo=food-order-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9)](https://github.com/Anusha-23092005/food-order-system)
-[![dynamic-discount-app](https://github-readme-stats.vercel.app/api/pin/?username=Anusha-23092005&repo=dynamic-discount-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9)](https://github.com/Anusha-23092005/dynamic-discount-app)
-[![appointment-booking-app](https://github-readme-stats.vercel.app/api/pin/?username=Anusha-23092005&repo=appointment-booking-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9)](https://github.com/Anusha-23092005/appointment-booking-app)
-
-</div>
-
 ---
 
 ## 🏅 Achievements
