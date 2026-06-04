@@ -8,8 +8,8 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AnushaR&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/AnushaR)
-[![GitHub followers](https://img.shields.io/github/followers/AnushaR?style=flat-square&color=70a5fd&logo=github&logoColor=white)](https://github.com/AnushaR)
+[![Profile Views](https://komarev.com/ghpvc/?username=Anusha-23092005&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Anusha-23092005)
+[![GitHub followers](https://img.shields.io/github/followers/Anusha-23092005?style=flat-square&color=70a5fd&logo=github&logoColor=white)](https://github.com/Anusha-23092005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anusha-r)
 [![Email](https://img.shields.io/badge/Email-anusha.r2023%40vitstudent.ac.in-bf91f3?style=flat-square&logo=gmail&logoColor=white)](mailto:anusha.r2023@vitstudent.ac.in)
 
@@ -82,11 +82,11 @@ I love building things that solve real problems — from **IoT-based safety syst
 
 <div align="center">
 
-<a href="https://github.com/AnushaR">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnushaR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Anusha-23092005">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anusha-23092005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/AnushaR">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Anusha-23092005">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha-23092005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -97,7 +97,7 @@ I love building things that solve real problems — from **IoT-based safety syst
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnushaR&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anusha-23092005&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -107,7 +107,7 @@ I love building things that solve real problems — from **IoT-based safety syst
 
 <div align="center">
 
-[![Anusha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnushaR&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/AnushaR)
+[![Anusha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anusha-23092005&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Anusha-23092005)
 
 </div>
 
@@ -117,7 +117,7 @@ I love building things that solve real problems — from **IoT-based safety syst
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushaR&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/AnushaR)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anusha-23092005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Anusha-23092005)
 
 </div>
 
@@ -147,9 +147,9 @@ I love building things that solve real problems — from **IoT-based safety syst
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [🛡️ Smart Drive Shield](https://github.com/AnushaR) | `IoT` `Sensors` `Embedded` | **Patent Published (2025)** · Real-time driver safety monitoring system with automated alerts for accident prevention |
-| [🧠 Visual Question Answering](https://github.com/AnushaR) | `Python` `CLIP` `CNN` `Transformer` | Hybrid deep learning VQA system · Binary classification on **COREVQA dataset** · Integrated CLIP + CNN Transformer + CNN+LSM |
-| [🌿 Plant Leaf Disease Detection](https://github.com/AnushaR) | `Python` `CNN` `MobileNetV2` | Lightweight disease detection with **MobileNetV2** · Transfer learning · Reduced computational complexity |
+| [🛡️ Smart Drive Shield](https://github.com/Anusha-23092005) | `IoT` `Sensors` `Embedded` | **Patent Published (2025)** · Real-time driver safety monitoring system with automated alerts for accident prevention |
+| [🧠 Visual Question Answering](https://github.com/Anusha-23092005) | `Python` `CLIP` `CNN` `Transformer` | Hybrid deep learning VQA system · Binary classification on **COREVQA dataset** · Integrated CLIP + CNN Transformer + CNN+LSM |
+| [🌿 Plant Leaf Disease Detection](https://github.com/Anusha-23092005) | `Python` `CNN` `MobileNetV2` | Lightweight disease detection with **MobileNetV2** · Transfer learning · Reduced computational complexity |
 
 </div>
 
@@ -203,3 +203,4 @@ I love building things that solve real problems — from **IoT-based safety syst
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
