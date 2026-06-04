@@ -21,34 +21,17 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
-public class AnushaR {
+Hi! I'm **Anusha R**, a passionate Software Engineering student pursuing my **Integrated M.Tech at Vellore Institute of Technology** (CGPA: 8.52) 🎓
 
-    String name          = "Anusha R";
-    String location      = "Vellore, Tamil Nadu, India";
-    String degree        = "Integrated M.Tech in Software Engineering @ VIT";
-    String cgpa          = "8.52";
+I love building things that solve real problems — from **IoT-based safety systems** to **deep learning models** for visual understanding. I recently published a **patent** for an IoT driver safety system, and I'm always exploring the intersection of AI, hardware, and the web.
 
-    String[] stack = {
-        "Java", "Python", "JavaScript",
-        "Node.js", "Express", "HTML/CSS",
-        "MySQL", "Docker", "Selenium"
-    };
-
-    String[] currentlyLearning = {
-        "Deep Learning (CNN, Transformers)",
-        "Computer Vision & VQA Systems",
-        "IoT & Embedded Systems",
-        "Cloud & DevOps Basics"
-    };
-
-    String funFact = "I hold a patent for an IoT-based driver safety system!";
-
-    String motto() {
-        return "Build. Break. Learn. Repeat. 🚀";
-    }
-}
-```
+- 🌍 Based in **Vellore, Tamil Nadu, India**
+- 💼 Former **Full Stack Intern** at Cognifyz Technologies
+- 🔬 Interested in **Deep Learning, Computer Vision & IoT**
+- 🌱 Currently exploring **Vision-Language Models & Cloud DevOps**
+- 🧮 National-level Abacus Competition **Winner**
+- ⚡ Fun fact: I hold a **published patent** before graduating!
+- 💬 Motto: *Build. Break. Learn. Repeat.* 🚀
 
 <br clear="right"/>
 
